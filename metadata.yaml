@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8398
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hay_Whitney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43406#Herbs-and-Apples
 gutenberg_issued: '2013-08-06'
 gutenberg_type: Text
 identifiers:
