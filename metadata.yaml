@@ -1,0 +1,34 @@
+_repo: Herbs-and-Apples_43406
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Horn, Lucretia
+    alias: Horn, Lucretia Van
+    gutenberg_agent_id: '42190'
+    url: http://www.gutenberg.org/2009/agents/42190
+covers:
+- cover_type: archival
+  image_path: 43406-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitney, Helen Hay
+    alias: Hay, Helen
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '8398'
+    url: http://www.gutenberg.org/2009/agents/8398
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hay_Whitney
+description: ''
+gutenberg_issued: '2013-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: Herbs and Apples
+url: http://www.gutenberg.org/ebooks/43406
